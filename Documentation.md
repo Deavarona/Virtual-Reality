@@ -65,6 +65,16 @@ Hollow Knight — это захватывающий приключенчески
 
 ![Group 5](https://user-images.githubusercontent.com/69917167/151653197-b76be8eb-8783-4041-89ba-079b8450883e.png)
 
+![Group 10](https://user-images.githubusercontent.com/98607315/154686090-42bfa6f5-75b9-4327-afc8-35900bb83ad9.png)
+
+![Group 7](https://user-images.githubusercontent.com/98607315/154686108-060f9f10-8158-4361-952a-5bb617d45e61.png)
+
+![Group 9](https://user-images.githubusercontent.com/98607315/154686197-d70e75bd-60f0-48f6-995c-e8c1a15ce1e1.png)
+
+![Group 8](https://user-images.githubusercontent.com/98607315/154686215-bf0fb13d-230c-45c4-9ec1-b25fbf8773b9.png)
+
+![Group 6](https://user-images.githubusercontent.com/98607315/154686225-6c52b933-6259-4d36-87eb-81a9cd15c6f8.png)
+
 # 4. Функциональные требования
 
 * Начать игру;
